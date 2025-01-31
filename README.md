@@ -1,26 +1,57 @@
-# Excel-Sales-and-Finance-Analytics-AtliQ-Hardwares
+# AtliQ Hardware Sales and Finance Analysis
 
-## Problem Statement:
-AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mousce, and other computer equipment  globally. Their aims to optimize sales strategies and increase net gross margins to drive business growth and profitability.
+### Problem Statement:
 
-## Table of Contents:
-- [Tools & Technique used](#tools-techniques)
-- [Sales Report](#sales-report)
-- [Finance Report](#finance-report)
-- [Business Inquiries](#business-inquiries)
-- [Insights & Recommendations](#insights-and-recommendations)
-- [Technical Skills](#technical-skills)
-- [Soft Skills](#soft-skills)
+This project focuses on analyzing the business model and operations of AtliQ Hardware, a manufacturer and seller of various hardware products including PCs, mice, printers, and other devices.
+Business Model AtliQ Hardware operates in the following manner:
 
-## Tools & Technique:
-! [Microsoft Excel] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMicrosoft_Excel&psig=AOvVaw3qEWM65swTaCGPTgwbnJxM&ust=1730400935589000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMivxIPktokDFQAAAAAdAAAAABAE) 
-- Microsoft Excel
+**Manufacturing**: AtliQ produces hardware products in their manufacturing units.
+
+**Distribution**: Products are shipped to distribution centers in various countries.
+
+**Sales Channels**: There are three channels.
+
+- Retailer: Selling to brick & mortar stores and e-commerce platforms.
+
+- Direct: Through AtliQ's own stores.
+
+- Distributor: Used in countries like China and South Korea due to regulations.
+
+
+**Project Scope**:
+
+This project aims to analyze AtliQ's business model, focusing on:
+
+- Understanding the distribution network
+- Analyzing different sales channels
+- Examining the customer and consumer differentiation
+- Exploring market-specific strategies (e.g., use of distributors in certain countries)
+
+**Data Analysis**:
+
+The project involves data analysis to gain insights into AtliQ's operations. Key areas of focus include:
+
+- Sales performance across different channels
+- Geographic distribution of sales
+- Customer segmentation
+- Product performance analysis
+
+
+Contributors
+
+**Surya Chandra Satya Sai**  
+
+## Tools & Techniques Used:
+Microsoft Excel
 - Power Query
 - Power Pivot
 - Pivot Table
 - Data Modelling
 - DAX (Data Analysis Expression)
 - ETL (Extract, Transformation & Load)
+
+
+# Customer Performance Report
 
 ## Sales Report:
 
