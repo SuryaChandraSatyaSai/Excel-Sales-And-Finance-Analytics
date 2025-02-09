@@ -125,3 +125,7 @@ Microsoft Excel
 - **Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
 - **Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
 - **Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
+
+---
+
+This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
